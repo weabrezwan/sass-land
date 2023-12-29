@@ -1,0 +1,112 @@
+body {
+    padding: 0;
+    margin: 0;
+
+}
+
+header {
+    background-color: #8979F3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.rakib {}
+
+.rakib img {}
+
+nav {}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    margin: 0 0 0 35px;
+    color: white;
+    font-weight: bolder;
+}
+
+/* section banner start 1 */
+
+section {}
+
+.banner {
+    background-color: #8979F3;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 50px;
+    padding: 0 0 0 0;
+}
+
+.banner p {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+/* balti section start */
+
+.balti {
+    display: flex;
+    justify-content: space-between;
+}
+
+.balti-item {
+    width: 38%;
+    margin: 75px;
+}
+
+.balti-item img {}
+
+.balti-item h1 {
+    font-size: 33px;
+}
+
+.balti-item p {
+    color: #000000b3;
+}
+
+.mog {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+footer {
+    background-color: #8979f342;
+}
+
+.jeep-text {
+    display: flex;
+}
+
+.foodball-item {
+    width: 20%;
+    padding: 40px;
+}
+
+.foodball-item h3 {}
+
+.foodball-item li {
+    list-style: none;
+}
+
+.foodball-item li a {
+    text-decoration: none;
+    padding: 20px;
+}
